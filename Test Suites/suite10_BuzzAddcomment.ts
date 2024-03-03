@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Suite_BuzzScenario</name>
+   <name>suite10_BuzzAddcomment</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,12 +10,12 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>89e54f96-c43c-4e29-8589-362a2bcdd157</testSuiteGuid>
+   <testSuiteGuid>339bcd59-f10d-4a91-85d5-6c7cee186c77</testSuiteGuid>
    <testCaseLink>
-      <guid>32d87f6a-c3bc-41d9-9c63-b500e63687e6</guid>
+      <guid>b5bd4443-2cbe-402b-93cf-f7f82db55742</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TC09_BUZZScenario</testCaseId>
+      <testCaseId>Test Cases/TC10_BuzzAddcomment</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
