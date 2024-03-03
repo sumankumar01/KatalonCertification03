@@ -37,7 +37,7 @@ WebUI.setText(findTestObject('Object Repository/Page_OrangeHRM/input_Employee Fu
 
 WebUI.setText(findTestObject('Object Repository/Page_OrangeHRM/input_Employee Id_oxd-input oxd-input--active'), '0330')
 
-WebUI.setText(findTestObject('Object Repository/Page_OrangeHRM/input_Employee Id_oxd-input oxd-input--focus'), '10000123')
+WebUI.setText(findTestObject('Object Repository/Page_OrangeHRM/input_Employee Id_oxd-input oxd-input--focus'), '1234')
 
 WebUI.click(findTestObject('Object Repository/Page_OrangeHRM/span_Employee Id_oxd-switch-input oxd-switc_efe210'))
 
