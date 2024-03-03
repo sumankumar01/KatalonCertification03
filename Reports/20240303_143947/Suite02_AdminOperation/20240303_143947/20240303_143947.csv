@@ -1,0 +1,17 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Suite02_AdminOperation,Edge Chromium 122,,,03-03-2024 14:39:54,03-03-2024 14:40:59,1m - 5.507s,PASSED
+,,,,,,,
+Test Cases/TC02_AdminOperation,Edge Chromium 122,,,03-03-2024 14:39:54,03-03-2024 14:40:59,1m - 5.266s,PASSED
+"openBrowser("""")",Edge Chromium 122,,,03-03-2024 14:39:54,03-03-2024 14:40:02,8.097s,PASSED
+"navigateToUrl(""https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"")",Edge Chromium 122,,,03-03-2024 14:40:02,03-03-2024 14:40:32,29.213s,PASSED
+"click(findTestObject(""Object Repository/Page_OrangeHRM/input_Username_username (1)""))",Edge Chromium 122,,,03-03-2024 14:40:32,03-03-2024 14:40:34,2.103s,PASSED
+"setText(findTestObject(""Object Repository/Page_OrangeHRM/input_Username_username (1)""), ""Admin"")",Edge Chromium 122,,,03-03-2024 14:40:34,03-03-2024 14:40:34,0.789s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_OrangeHRM/input_Password_password (1)""), ""hUKwJTbofgPU9eVlw/CnDQ=="")",Edge Chromium 122,,,03-03-2024 14:40:34,03-03-2024 14:40:35,0.460s,PASSED
+"click(findTestObject(""Object Repository/Page_OrangeHRM/button_Login (1)""))",Edge Chromium 122,,,03-03-2024 14:40:35,03-03-2024 14:40:35,0.391s,PASSED
+"click(findTestObject(""Object Repository/Page_OrangeHRM/span_Admin""))",Edge Chromium 122,,,03-03-2024 14:40:35,03-03-2024 14:40:47,11.954s,PASSED
+"click(findTestObject(""Object Repository/Page_OrangeHRM/i_Enabled_oxd-icon bi-pencil-fill""))",Edge Chromium 122,,,03-03-2024 14:40:47,03-03-2024 14:40:55,8.216s,PASSED
+"click(findTestObject(""Object Repository/Page_OrangeHRM/i_Enabled_oxd-icon bi-caret-up-fill oxd-sel_d51e69""))",Edge Chromium 122,,,03-03-2024 14:40:55,03-03-2024 14:40:57,1.676s,PASSED
+"click(findTestObject(""Object Repository/Page_OrangeHRM/div_Required Cancel  Save""))",Edge Chromium 122,,,03-03-2024 14:40:57,03-03-2024 14:40:58,0.501s,PASSED
+"click(findTestObject(""Object Repository/Page_OrangeHRM/div_Required Cancel  Save""))",Edge Chromium 122,,,03-03-2024 14:40:58,03-03-2024 14:40:58,0.479s,PASSED
+"click(findTestObject(""Object Repository/Page_OrangeHRM/button_Save""))",Edge Chromium 122,,,03-03-2024 14:40:58,03-03-2024 14:40:59,0.370s,PASSED
+closeBrowser(),Edge Chromium 122,,,03-03-2024 14:40:59,03-03-2024 14:40:59,0.648s,PASSED

@@ -1,0 +1,20 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Suite03_PimOperation,Edge Chromium 122,,,03-03-2024 14:45:25,03-03-2024 14:46:48,1m - 23.118s,PASSED
+,,,,,,,
+Test Cases/TC03_PimOperation,Edge Chromium 122,,,03-03-2024 14:45:25,03-03-2024 14:46:48,1m - 22.597s,PASSED
+"openBrowser("""")",Edge Chromium 122,,,03-03-2024 14:45:26,03-03-2024 14:45:35,8.986s,PASSED
+"navigateToUrl(""https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"")",Edge Chromium 122,,,03-03-2024 14:45:35,03-03-2024 14:45:43,8.401s,PASSED
+"setText(findTestObject(""Object Repository/Page_OrangeHRM/input_Username_username (2)""), ""Admin"")",Edge Chromium 122,,,03-03-2024 14:45:43,03-03-2024 14:45:46,2.965s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_OrangeHRM/input_Password_password (2)""), ""hUKwJTbofgPU9eVlw/CnDQ=="")",Edge Chromium 122,,,03-03-2024 14:45:46,03-03-2024 14:45:47,0.682s,PASSED
+"click(findTestObject(""Object Repository/Page_OrangeHRM/button_Login (2)""))",Edge Chromium 122,,,03-03-2024 14:45:47,03-03-2024 14:45:51,4.085s,PASSED
+"click(findTestObject(""Object Repository/Page_OrangeHRM/a_PIM""))",Edge Chromium 122,,,03-03-2024 14:45:51,03-03-2024 14:46:01,10.464s,PASSED
+"click(findTestObject(""Object Repository/Page_OrangeHRM/button_Add""))",Edge Chromium 122,,,03-03-2024 14:46:01,03-03-2024 14:46:07,5.831s,PASSED
+"setText(findTestObject(""Object Repository/Page_OrangeHRM/input_Employee Full Name_firstName""), ""Suman"")",Edge Chromium 122,,,03-03-2024 14:46:07,03-03-2024 14:46:09,1.732s,PASSED
+"setText(findTestObject(""Object Repository/Page_OrangeHRM/input_Employee Full Name_lastName""), ""Kumar"")",Edge Chromium 122,,,03-03-2024 14:46:09,03-03-2024 14:46:10,1.026s,PASSED
+"setText(findTestObject(""Object Repository/Page_OrangeHRM/input_Employee Id_oxd-input oxd-input--active""), ""0330"")",Edge Chromium 122,,,03-03-2024 14:46:10,03-03-2024 14:46:11,0.844s,PASSED
+"setText(findTestObject(""Object Repository/Page_OrangeHRM/input_Employee Id_oxd-input oxd-input--focus""), ""10000123"")",Edge Chromium 122,,,03-03-2024 14:46:11,03-03-2024 14:46:12,1.127s,PASSED
+"click(findTestObject(""Object Repository/Page_OrangeHRM/span_Employee Id_oxd-switch-input oxd-switc_efe210""))",Edge Chromium 122,,,03-03-2024 14:46:12,03-03-2024 14:46:12,0.495s,PASSED
+"click(findTestObject(""Object Repository/Page_OrangeHRM/span_Employee Id_oxd-switch-input oxd-switc_efe210""))",Edge Chromium 122,,,03-03-2024 14:46:12,03-03-2024 14:46:14,1.198s,PASSED
+"click(findTestObject(""Object Repository/Page_OrangeHRM/button_Save (1)""))",Edge Chromium 122,,,03-03-2024 14:46:14,03-03-2024 14:46:14,0.533s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_OrangeHRM/h6_Suman Kumar""), ""Suman Kumar"")",Edge Chromium 122,,,03-03-2024 14:46:14,03-03-2024 14:46:46,32.315s,PASSED
+closeBrowser(),Edge Chromium 122,,,03-03-2024 14:46:46,03-03-2024 14:46:48,1.347s,PASSED
