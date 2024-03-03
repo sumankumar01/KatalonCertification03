@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_Upcoming Anniversaries_oxd-buzz-po_ec78b5</name>
+   <tag></tag>
+   <elementGuidId>d02ac497-e0b8-4105-a0ab-4cf8cba2f160</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='Buzz Newsfeed']/div/div/div/div[2]/form/div/textarea</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>textarea.oxd-buzz-post-input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;What's on your mind?&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>c6c86c51-74bc-44e4-877e-6f87bd1a96f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rows</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>cc9c0912-c362-4e7c-bfaf-da7287b4625b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-buzz-post-input</value>
+      <webElementGuid>4b49247a-57e6-4717-832e-c170d89efb13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>What's on your mind?</value>
+      <webElementGuid>d60dd8d1-9f73-49dc-9a18-1f3815440593</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Buzz Newsfeed&quot;)/div[@class=&quot;orangehrm-buzz-newsfeed&quot;]/div[@class=&quot;oxd-sheet oxd-sheet--rounded oxd-sheet--gutters oxd-sheet--white orangehrm-buzz-create-post&quot;]/div[@class=&quot;orangehrm-buzz-create-post-header&quot;]/div[@class=&quot;orangehrm-buzz-create-post-header-text&quot;]/form[@class=&quot;oxd-form&quot;]/div[@class=&quot;oxd-buzz-post oxd-buzz-post--focus oxd-buzz-post--composing&quot;]/textarea[@class=&quot;oxd-buzz-post-input&quot;]</value>
+      <webElementGuid>955d1a8e-cda8-4b50-96a2-bcde62b66b3e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Buzz Newsfeed']/div/div/div/div[2]/form/div/textarea</value>
+      <webElementGuid>3320c2c0-75eb-4cf7-9464-7090bdc84062</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//textarea</value>
+      <webElementGuid>7d244704-3d3b-4df7-a14b-5eeed99f4560</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@placeholder = concat(&quot;What&quot; , &quot;'&quot; , &quot;s on your mind?&quot;)]</value>
+      <webElementGuid>3015fb66-5899-4035-a95b-929ba4204390</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

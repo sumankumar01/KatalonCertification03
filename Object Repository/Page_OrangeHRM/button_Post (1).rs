@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Post (1)</name>
+   <tag></tag>
+   <elementGuidId>ac9c541e-0fd1-4017-aa98-177fc2314111</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.oxd-button.oxd-button--medium.oxd-button--main</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Post&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>213aed41-6c3d-437d-a119-9bb370bdbe07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>4df1817f-b8e3-41f4-baaf-02fa452e3b45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-button oxd-button--medium oxd-button--main</value>
+      <webElementGuid>cec3420f-4abc-4c13-9825-fef8f4eeaaf0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Post </value>
+      <webElementGuid>c3516e1e-f2b7-4c4d-bb0c-e9c6f686d3b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Buzz Newsfeed&quot;)/div[@class=&quot;orangehrm-buzz-newsfeed&quot;]/div[@class=&quot;oxd-sheet oxd-sheet--rounded oxd-sheet--gutters oxd-sheet--white orangehrm-buzz-create-post&quot;]/div[@class=&quot;orangehrm-buzz-create-post-header&quot;]/div[@class=&quot;orangehrm-buzz-create-post-header-text&quot;]/form[@class=&quot;oxd-form&quot;]/div[@class=&quot;oxd-buzz-post oxd-buzz-post--active oxd-buzz-post--composing&quot;]/div[@class=&quot;oxd-buzz-post-slot&quot;]/button[@class=&quot;oxd-button oxd-button--medium oxd-button--main&quot;]</value>
+      <webElementGuid>4faa1894-d99d-416c-bf67-b937446e61c1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>e240367c-b908-47c5-9fd1-57d8eecabbc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Buzz Newsfeed']/div/div/div/div[2]/form/div/div/button</value>
+      <webElementGuid>23037eb8-1d95-49e1-8c95-24ae4443b884</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upcoming Anniversaries'])[1]/following::button[1]</value>
+      <webElementGuid>f3aaa772-538c-4502-94c2-84507bb2b0c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buzz Newsfeed'])[1]/following::button[1]</value>
+      <webElementGuid>342a7be5-0d11-4250-9f5a-0f55361905da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Share Photos'])[1]/preceding::button[1]</value>
+      <webElementGuid>a213ac3c-8fd9-4ab5-968e-7f7896bbed0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Share Video'])[1]/preceding::button[2]</value>
+      <webElementGuid>92c99f1b-d86b-4496-b6e5-9dc63d608d85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Post']/parent::*</value>
+      <webElementGuid>e25785bb-7502-489c-ae94-20dec8679356</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/button</value>
+      <webElementGuid>0f825749-008a-41ab-9cf5-ada3c4b97398</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = ' Post ' or . = ' Post ')]</value>
+      <webElementGuid>178a72ea-08dd-4894-b091-7270649bfab9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
