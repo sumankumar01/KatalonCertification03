@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Suite100_seleniumElementAutomation,Edge Chromium 122,,,09-03-2024 11:44:37,09-03-2024 11:44:58,21.110s,PASSED
+,,,,,,,
+Test Cases/TC100_seleniumElementAutomation,Edge Chromium 122,,,09-03-2024 11:44:37,09-03-2024 11:44:58,20.866s,PASSED
+"openBrowser("""")",Edge Chromium 122,,,09-03-2024 11:44:38,09-03-2024 11:44:42,4.542s,PASSED
+"navigateToUrl(""https://demoqa.com/"")",Edge Chromium 122,,,09-03-2024 11:44:42,09-03-2024 11:44:50,7.517s,PASSED
+"click(findTestObject(""Object Repository/Page_DEMOQA/svg""))",Edge Chromium 122,,,09-03-2024 11:44:50,09-03-2024 11:44:51,0.847s,PASSED
+"click(findTestObject(""Object Repository/Page_DEMOQA/span_Text Box""))",Edge Chromium 122,,,09-03-2024 11:44:51,09-03-2024 11:44:55,4.731s,PASSED
+"setText(findTestObject(""Object Repository/Page_DEMOQA/input_Full Name_userName""), """")",Edge Chromium 122,,,09-03-2024 11:44:55,09-03-2024 11:44:58,2.392s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_DEMOQA/label_Full Name""), ""Full Name"")",Edge Chromium 122,,,09-03-2024 11:44:58,09-03-2024 11:44:58,0.461s,PASSED
